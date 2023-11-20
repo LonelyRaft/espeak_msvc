@@ -3,3 +3,4 @@ build/
 cmake-build-debug/
 portaudio/
 *.user
+*.zip
